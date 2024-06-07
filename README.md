@@ -36,6 +36,7 @@ Clone the repository:
 bash
 
 git clone https://github.com/SambhavMehta228/Font_Style_Transfer.git
+
 cd Font_Style_Transfer
 
 Dataset Preparation
